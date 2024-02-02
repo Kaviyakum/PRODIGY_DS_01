@@ -1,5 +1,6 @@
 **Wholesale Distributor Dataset Visualization**
 **Overview**
+
 This dataset captures the annual spending in monetary units (m.u.) across diverse product categories for clients of a wholesale distributor. The columns include 'Channel', 'Region', 'Fresh', 'Milk', 'Grocery', 'Frozen', 'Detergents_Paper', and 'Delicassen'. The 'Channel' column represents the type of customer channel (e.g., Horeca, Retail), and 'Region' denotes the geographical region of the clients.
 
 **Visualizations**
