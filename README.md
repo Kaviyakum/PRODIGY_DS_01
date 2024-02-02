@@ -6,7 +6,9 @@ This dataset captures the annual spending in monetary units (m.u.) across divers
 **Visualizations**
 
 Bar Chart
+
 Gain insights into spending patterns across different regions using a bar chart. This visualization highlights the distribution of spending in a specific product category (e.g., 'Grocery') across various regions.
 
 Histogram
+
 Examine the distribution of spending in a chosen product category (e.g., 'Grocery') with a histogram. This visualization displays the frequency of spending amounts within specified bins, giving a sense of the data's spread.
